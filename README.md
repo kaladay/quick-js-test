@@ -1,4 +1,4 @@
-# quick-js-test
+# Quick Javascript Test Workflow
 A very simple Javascript Workflow for use by [FW-CLI](https://github.com/TAMULib/fw-cli/), [Mod-Workflow](https://github.com/folio-org/mod-workflow/), and [Mod-Camunda](https://github.com/folio-org/mod-camunda/) in [FOLIO](https://github.com/folio-org/).
 
 All this Workflow does is print the message `Quick Test Complete.` to the system log of the chosen Workflow-Engine, such as [Mod-Camunda](https://github.com/folio-org/mod-camunda/).
