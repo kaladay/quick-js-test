@@ -1,7 +1,7 @@
 {
     "id": "41604db9-e588-40c3-8798-afb348a61230",
     "name": "Quick Javascript Test Start Trigger",
-    "description": "REST Post Endpoint",
+    "description": "A REST POST end point for running the Workflow.",
     "type": "MESSAGE_CORRELATE",
     "method": "POST",
     "deserializeAs": "EventTrigger",
